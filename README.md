@@ -1,2 +1,2 @@
 # LeetCodeProblems
-LeetCode Solutions: A Record of My Problem Solving Journey.
+LeetCode Solutions: A record of my problem solving journey.
